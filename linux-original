@@ -1,0 +1,32 @@
+ls      - list of all commands
+cd      - change directory
+mkdir   - make directory
+ls -la  - shown hidden files
+pwd     - it will pint working directory
+cat     - read a file
+clear   - clear terminal
+chmod   - change permission to access
+cut     - divide a file into several parts
+awk     - replace text
+mv      - move
+rm      - remove
+mount   - mount files
+link    -creat a file link
+ln      -create a symbolic link
+lprint  - print a file
+locate  - fine files
+open    - open a file in its application
+rar     - archive files with compression
+rename  - rename files
+vi      - to edit a file
+cd..    - move bck to parent directory
+zip     - package a compress files
+cp      - to copy files
+echo    - to repeat a string
+grep    - replace the string with another string
+shutdown- turnoff the computer
+start   - start the computer
+tar     - extract files
+touch   - creat a blank file
+
+
